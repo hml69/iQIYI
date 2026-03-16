@@ -105,7 +105,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <div className="relative w-14 h-14 overflow-hidden">
               <Image 
-                src="https://img.icons8.com/fluency/96/movie-projector.png" 
+                src="/images/iqiyi.png" 
                 alt="Logo" 
                 fill
                 className="object-contain drop-shadow-md"
